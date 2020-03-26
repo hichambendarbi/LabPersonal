@@ -1,0 +1,19 @@
+{
+  "name": "labpersonal",
+  "version": "1.0.0",
+  "description": "LabPersonal name created by Ittiny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hichambendarbi/LabPersonal.git"
+  },
+  "author": "hichambendarbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hichambendarbi/LabPersonal/issues"
+  },
+  "homepage": "https://github.com/hichambendarbi/LabPersonal#readme"
+}
